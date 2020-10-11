@@ -1,6 +1,6 @@
 
 
-export const Cofes: Array<Object> = [
+export const Coffes: Array<Object> = [
    {
       name: 'Caramel Ribbon',
       value: '$ 39.00',
